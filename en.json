@@ -1,0 +1,150 @@
+{
+  "HEADER": {
+    "PHONES": {
+      "ITEM-1": "050 555-0-333, ",
+      "ITEM-1-LINK-VALUE": "tel:+380505550333",
+      "ITEM-2": "096 282-88-90",
+      "ITEM-2-LINK-VALUE": "tel:+380962828890"
+    },
+    "SOCIAL": {
+      "INSTAGRAM": "",
+      "FACEBOOK": "",
+      "VIBER": "",
+      "YOUTUBE": ""
+    },
+    "CALL-BACK": "Call me back",
+    "FEEDBACK": "Feedback",
+    "LANGUAGES": {
+      "EN": "En",
+      "RU": "Ru",
+      "UA": "Ua"
+    },
+    "HELLO": "Hello, {{name}}",
+    "SEARCH": "Search",
+    "SEARCH-PLACEHOLDER": "Search",
+    "SEARCH-BUTTON": "Search",
+    "WISHES": "Wishes",
+    "CART": "Cart",
+    "ACCOUNT": "Account"
+  },
+  "NAV": {
+    "ITEM-1": "About",
+    "ITEM-1-1": "About company",
+    "ITEM-1-2": "Tea series Elite Portioned Tea",
+    "ITEM-1-3": "Tea series Flash & Tips",
+    "ITEM-1-4": "Certificates / patents",
+    "ITEM-1-5": "Cooperation",
+    "ITEM-1-6": "Corporate gifts",
+    "ITEM-1-7": "Private Label",
+    "ITEM-2": "Products Tea",
+    "ITEM-2-1":  "For cup/glass",
+    "ITEM-2-2": "For teapot",
+    "ITEM-2-3":  "Weight 100 g",
+    "ITEM-2-4": "For cup T-Cup Box",
+    "ITEM-2-5":  "Collection Flash&Tips",
+    "ITEM-2-6": "Green tea",
+    "ITEM-2-7":  "Black tea",
+    "ITEM-2-8": "Herbal tea",
+    "ITEM-2-9":  "Fruit tea",
+    "ITEM-2-10": "Matcha tea",
+    "ITEM-2-11":  "Sugar/substitute",
+    "ITEM-2-12": "Accessories/utensils",
+    "ITEM-2-13":  "Gift sets",
+    "ALL-PRODUCTS": "All products",
+    "ITEM-3": "Sugar",
+    "ITEM-4": "Promotions",
+    "ITEM-5": "Export",
+    "ITEM-6": "Deliver & Payment",
+    "ITEM-7": "Cooperation",
+    "ITEM-8": "Contacts"
+  },
+  "FOOTER": {
+    "BUYERS": "Wholesale buyers",
+    "OFFER": "Offer agreement"
+  },
+  "DOWNLOAD-CATALOGS": {
+    "ITEM-1": "Download catalog of tea Elite Portiomed Tea",
+    "ITEM-2": "Download catalog of tea Flash&Tips"
+  },
+  "BREADCRUMB-HOME": "Home",
+  "CABINET": {
+    "PAGE-TITLE": "Cabinet",
+    "NEW-CLIENT": "New client",
+    "NEW-CLIENT-TEXT": "Creating an account will help you buy faster. You will be able to monitor the status of the order, as well as view orders made earlier. You will be able to accumulate prize points and receive discount coupons.\nAnd for regular customers we offer a flexible system of discounts and personal service.",
+    "NEW-CLIENT-BUTTON": "Go to registration",
+    "SIGN-IN": "Registered client",
+    "SIGN-IN-EMAIL": "E-mail",
+    "SIGN-IN-PASSWORD": "Password",
+    "SIGN-IN-PASSWORD-PLACEHOLDER": "Minimum 8 characters",
+    "SIGN-IN-BUTTON": "Sign In",
+    "OR": "or"
+  },
+  "CABINET-USER": {
+    "CONTACTS": "Contact information",
+    "ADDRESSES": "Delivery address",
+    "HISTORY": "Order history",
+    "LIST": "Tasting list",
+    "DISCOUNTS": "Your discounts",
+    "LOGOUT": "Logout",
+    "CONTACTS-STATE": {
+      "INFO-TITLE": "Additional information",
+      "PERSONAL-TITLE": "Contacts",
+      "CHANGE-PERSONAL-DATA": "Change personal data",
+      "CHANGE-PASSWORD": "Change password",
+      "OLD-PASSWORD": "Old password",
+      "OLD-PASSWORD-PLACEHOLDER": "Enter old password",
+      "HORECA": "<strong>1. Are you the owner of the institution HoReCa?</strong> (Coffee shop, restaurant, hotel, gas station)",
+      "HORECA-YES": "YES",
+      "HORECA-NO": "NO",
+      "HORECA-OTHER": "OTHER",
+      "SOCIAL-NETWORKS-TITLE": "Do you have a social media account / site",
+      "SOCIAL-NETWORKS-SITE": "Site",
+      "SOCIAL-NETWORKS-PLACEHOLDER": "Input link",
+      "SOCIAL-STORIES-TITLE": "2. Are you ready to develop a tea culture with us on social networks and receive stories-discounts?",
+      "SAVE": "Save"
+    },
+    "ADDRESS-STATE": {
+      "TITLE": "Address",
+      "REGION": "Region",
+      "DISTRICT": "District",
+      "CITY": "City / Town",
+      "ADDRESS": "Address",
+      "SAVE": "Save"
+    },
+    "HISTORY-STATE": {
+      "TITLE": "Orders history",
+      "ORDER-NUMBER-TITLE": "Order number",
+      "ORDER-DATE-TITLE": "Date",
+      "ORDER-COST-TITLE": "Amount",
+      "ORDER-STATUS-TITLE": "Status",
+      "ORDER-STATUS-WAITING": "Waiting for confirmation",
+      "ORDER-STATUS-DONE": "Done",
+      "ORDER-STATUS-CANCELED": "Canceled",
+      "ORDER-STATUS-DELIVERY": "In the process of delivery",
+      "CURRENCY": "{{value}} UAH"
+    }
+  },
+  "REGISTRATION": {
+    "PAGE-TITLE": "Registration",
+    "NEW-CLIENT": "New client",
+    "NAME": "Your name",
+    "NAME-PLACEHOLDER": "John",
+    "LAST-NAME": "Last name",
+    "LAST-NAME-PLACEHOLDER": "Last name",
+    "PHONE": "Phone",
+    "PHONE-PLACEHOLDER": "+18005550100",
+    "EMAIL": "E-mail",
+    "PASSWORD": "Password",
+    "PASSWORD-PLACEHOLDER": "Minimum 8 characters",
+    "CONFIRM-PASSWORD": "Confirm Password",
+    "CONFIRM-PASSWORD-PLACEHOLDER": "Repeat Password",
+    "BUTTON-TEXT": "Register / Next",
+    "NOTIFICATION": "Receive news notifications"
+  },
+  "VALIDATION-MESSAGES": {
+    "REQUIRED-FIELD": "Required field",
+    "INCORECT-EMAIL": "Wrong Email format",
+    "PASSWORDS-MATCH": "Passwords don't match",
+    "INCORECT-LINK": "Wrong link format"
+  }
+}

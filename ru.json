@@ -1,0 +1,150 @@
+{
+  "HEADER": {
+    "PHONES": {
+      "ITEM-1": "050 555-0-333, ",
+      "ITEM-1-LINK-VALUE": "tel:+380505550333",
+      "ITEM-2": "096 282-88-90",
+      "ITEM-2-LINK-VALUE": "tel:+380962828890"
+    },
+    "SOCIAL": {
+      "INSTAGRAM": "",
+      "FACEBOOK": "",
+      "VIBER": "",
+      "YOUTUBE": ""
+    },
+    "CALL-BACK": "Перезвоните мне",
+    "FEEDBACK": "Форма обратной связи",
+    "LANGUAGES": {
+      "EN": "En",
+      "RU": "Ru",
+      "UA": "Ua"
+    },
+    "HELLO": "Здравствуйте, {{name}}",
+    "SEARCH": "Искать",
+    "SEARCH-PLACEHOLDER": "Я ищю...",
+    "SEARCH-BUTTON": "Найти",
+    "WISHES": "Желанное",
+    "CART": "Корзина",
+    "ACCOUNT": "Кабинет"
+  },
+  "NAV": {
+    "ITEM-1": "Про нас",
+    "ITEM-1-1": "Про компанию",
+    "ITEM-1-2": "Серия чая Elite Portioned Tea",
+    "ITEM-1-3": "Серия чая Flash & Tips",
+    "ITEM-1-4": "Сертефикаты / патенты",
+    "ITEM-1-5": "Сотрудничество",
+    "ITEM-1-6": "Корпоративные подарки",
+    "ITEM-1-7": "Private Label",
+    "ITEM-2": "Продукция чай",
+    "ITEM-2-1":  "Для чашки/стакана",
+    "ITEM-2-2": "Для заварника",
+    "ITEM-2-3":  "Развесной 100 г",
+    "ITEM-2-4": "Для чашки T-Cup Box",
+    "ITEM-2-5":  "Коллекция Flash&Tips",
+    "ITEM-2-6": "Зеленый",
+    "ITEM-2-7":  "Чорный",
+    "ITEM-2-8": "Травяной",
+    "ITEM-2-9":  "Фруктовый",
+    "ITEM-2-10": "Матча",
+    "ITEM-2-11":  "Сахар/заменитель",
+    "ITEM-2-12": "Аксессуари/посуда",
+    "ITEM-2-13":  "Подарочные наборы",
+    "ALL-PRODUCTS": "Вся продукция",
+    "ITEM-3": "Сахар",
+    "ITEM-4": "Акции",
+    "ITEM-5": "Экспорт",
+    "ITEM-6": "Доставка и оплата",
+    "ITEM-7": "Сотрудничество",
+    "ITEM-8": "Контакты"
+  },
+  "FOOTER": {
+    "BUYERS": "Оптовым покупателям",
+    "OFFER": "Договор оферты"
+  },
+  "DOWNLOAD-CATALOGS": {
+    "ITEM-1": "Загрузить каталок чая Elite Portiomed Tea",
+    "ITEM-2": "Загрузить каталок чая Flash&Tips"
+  },
+  "BREADCRUMB-HOME": "Главная",
+  "CABINET": {
+    "PAGE-TITLE": "Кабинет",
+    "NEW-CLIENT": "Новый клиент",
+    "NEW-CLIENT-TEXT": "Создание учетной записи поможет покупать быстрее. Вы сможете контролировать состояние заказа, а также просматривать заказы сделанные ранее. Вы сможете накапливать призовые баллы и получать купоны на скидки.\nА постоянным покупателям мы предлагаем гибкую систему скидок и персональное обслуживание.",
+    "NEW-CLIENT-BUTTON": "Перейти к регистрации",
+    "SIGN-IN": "Зарагестрированный клиент",
+    "SIGN-IN-EMAIL": "E-mail",
+    "SIGN-IN-PASSWORD": "Пароль",
+    "SIGN-IN-PASSWORD-PLACEHOLDER": "Минимум 8 символов",
+    "SIGN-IN-BUTTON": "Войти в кабинет",
+    "OR": "или"
+  },
+  "CABINET-USER": {
+    "CONTACTS": "Контактная информация",
+    "ADDRESSES": "Адрес доставки",
+    "HISTORY": "История заказов",
+    "LIST": "Дегустационный лист",
+    "DISCOUNTS": "Ваши скидки",
+    "LOGOUT": "Выйти",
+    "CONTACTS-STATE": {
+      "INFO-TITLE": "Дополнительная информация",
+      "PERSONAL-TITLE": "Контакты",
+      "CHANGE-PERSONAL-DATA": "Изменить персональные данные",
+      "CHANGE-PASSWORD": "Изменить пароль",
+      "OLD-PASSWORD": "Старый пароль",
+      "OLD-PASSWORD-PLACEHOLDER": "Введите актуальный пароль",
+      "HORECA": "<strong>1. Являетесь ли вы владельцем заведения HoReCa?</strong> (Кафе, ресторан, гостиница, АЗК)",
+      "HORECA-YES": "Да",
+      "HORECA-NO": "Нет",
+      "HORECA-OTHER": "Другое",
+      "SOCIAL-NETWORKS-TITLE": "Есть ли у вас аккаунт в соц сетях / сайт",
+      "SOCIAL-NETWORKS-SITE": "Веб сайт",
+      "SOCIAL-NETWORKS-PLACEHOLDER": "Введите ссылку",
+      "SOCIAL-STORIES-TITLE": "2. Готовы ли вы вместе с нами развивать культуру чаепития в социальных сетях и получать stories-скидки?",
+      "SAVE": "Сохранить"
+    },
+    "ADDRESS-STATE": {
+      "TITLE": "Адрес",
+      "REGION": "Область",
+      "DISTRICT": "Район",
+      "CITY": "Город / Населенный пунк",
+      "ADDRESS": "Адрес",
+      "SAVE": "Сохранить"
+    },
+    "HISTORY-STATE": {
+      "TITLE": "История заказов",
+      "ORDER-NUMBER-TITLE": "Номер заказа",
+      "ORDER-DATE-TITLE": "Дата",
+      "ORDER-COST-TITLE": "Сумма",
+      "ORDER-STATUS-TITLE": "Статус",
+      "ORDER-STATUS-WAITING": "В ожидании подтверждения",
+      "ORDER-STATUS-DONE": "Выполнен",
+      "ORDER-STATUS-CANCELED": "Отменён",
+      "ORDER-STATUS-DELIVERY": "В процессе доставки",
+      "CURRENCY": "{{value}} грн"
+    }
+  },
+  "REGISTRATION": {
+    "PAGE-TITLE": "Регистрация",
+    "NEW-CLIENT": "Новый клиент",
+    "NAME": "Ваше Имя",
+    "NAME-PLACEHOLDER": "Константин",
+    "LAST-NAME": "Ваша фамилия",
+    "LAST-NAME-PLACEHOLDER": "Константинопольский",
+    "PHONE": "Телефон",
+    "PHONE-PLACEHOLDER": "+380123456789",
+    "EMAIL": "E-mail",
+    "PASSWORD": "Пароль",
+    "PASSWORD-PLACEHOLDER": "Минимум 8 символов",
+    "CONFIRM-PASSWORD": "Подтвердить пароль",
+    "CONFIRM-PASSWORD-PLACEHOLDER": "Повторить пароль",
+    "BUTTON-TEXT": "Зарегистрироваться / Далее",
+    "NOTIFICATION": "Получать сообщения про новости"
+  },
+  "VALIDATION-MESSAGES": {
+    "REQUIRED-FIELD": "Обязательное поле",
+    "INCORECT-EMAIL": "Не правильний формат Email адреса",
+    "PASSWORDS-MATCH": "Пароли не совпадают",
+    "INCORECT-LINK": "Неверный формат ссылки"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "HEADER": {
+    "PHONES": {
+      "ITEM-1": "050 555-0-333, ",
+      "ITEM-1-LINK-VALUE": "tel:+380505550333",
+      "ITEM-2": "096 282-88-90",
+      "ITEM-2-LINK-VALUE": "tel:+380962828890"
+    },
+    "SOCIAL": {
+      "INSTAGRAM": "",
+      "FACEBOOK": "",
+      "VIBER": "",
+      "YOUTUBE": ""
+    },
+    "CALL-BACK": "Передзвоніть мені",
+    "FEEDBACK": "Форма зворотного зв’язку",
+    "LANGUAGES": {
+      "EN": "En",
+      "RU": "Ru",
+      "UA": "Ua"
+    },
+    "HELLO": "Вітаю, {{name}}",
+    "SEARCH": "Шукати",
+    "SEARCH-PLACEHOLDER": "Я шукаю...",
+    "SEARCH-BUTTON": "Знайти",
+    "WISHES": "Бажання",
+    "CART": "Кошик",
+    "ACCOUNT": "Кабінет"
+  },
+  "NAV": {
+    "ITEM-1": "Про нас",
+    "ITEM-1-1": "Про компанію",
+    "ITEM-1-2": "Серія чаю Elite Portioned Tea",
+    "ITEM-1-3": "Серія чаю Flash & Tips",
+    "ITEM-1-4": "Сертифікати / патенти",
+    "ITEM-1-5": "Співпраця",
+    "ITEM-1-6": "Корпоративні подарунки",
+    "ITEM-1-7": "Private Label",
+    "ITEM-2": "Продукція чай",
+    "ITEM-2-1":  "Для чашки/стакану",
+    "ITEM-2-2": "Для заварнику",
+    "ITEM-2-3":  "Ваговий 100 г",
+    "ITEM-2-4": "Для чашки T-Cup Box",
+    "ITEM-2-5":  "Колекція Flash&Tips",
+    "ITEM-2-6": "Зелений",
+    "ITEM-2-7":  "Чорний",
+    "ITEM-2-8": "Трав’яний",
+    "ITEM-2-9":  "Фруктовий",
+    "ITEM-2-10": "Матча",
+    "ITEM-2-11":  "Цукор/замінник",
+    "ITEM-2-12": "Аксесуари/посуд",
+    "ITEM-2-13":  "Подарункові набори",
+    "ALL-PRODUCTS": "Вся продукція",
+    "ITEM-3": "Цукор",
+    "ITEM-4": "Акції",
+    "ITEM-5": "Експорт",
+    "ITEM-6": "Доставка та оплата",
+    "ITEM-7": "Співпраця",
+    "ITEM-8": "Контакти"
+  },
+  "FOOTER": {
+    "BUYERS": "Оптовим покупцям",
+    "OFFER": "Договір оферти"
+  },
+  "DOWNLOAD-CATALOGS": {
+    "ITEM-1": "Завантажити каталог чаю Elite Portiomed Tea",
+    "ITEM-2": "Завантажити каталог чаю Flash&Tips"
+  },
+  "BREADCRUMB-HOME": "Головна",
+  "CABINET": {
+    "PAGE-TITLE": "Кабінет",
+    "NEW-CLIENT": "Новий клієнт",
+    "NEW-CLIENT-TEXT": "Створення облікового запису допоможе купувати швидше. Ви зможете контролювати стан замовлення, а також переглядати замовлення зроблені раніше. Ви зможете накопичувати призові бали і отримувати купони на знижки.\nА постійним покупцям ми пропонуємо гнучку систему знижок і персональне обслуговування.",
+    "NEW-CLIENT-BUTTON": "Перейти до реєстрації",
+    "SIGN-IN": "Зареєстрований клієнт",
+    "SIGN-IN-EMAIL": "E-mail",
+    "SIGN-IN-PASSWORD": "Пароль",
+    "SIGN-IN-PASSWORD-PLACEHOLDER": "Мінімум 8 символів",
+    "SIGN-IN-BUTTON": "Увійти до кабінету",
+    "OR": "або"
+  },
+  "CABINET-USER": {
+    "CONTACTS": "Контактна інформація",
+    "ADDRESSES": "Адреса доставки",
+    "HISTORY": "Історія замовлень",
+    "LIST": "Дегустаційний лист",
+    "DISCOUNTS": "Ваші знижки",
+    "LOGOUT": "Вийти",
+    "CONTACTS-STATE": {
+      "INFO-TITLE": "Додаткова інформація",
+      "PERSONAL-TITLE": "Контакти",
+      "CHANGE-PERSONAL-DATA": "Змінити персональні дані",
+      "CHANGE-PASSWORD": "Змінити пароль",
+      "OLD-PASSWORD": "Старий пароль",
+      "OLD-PASSWORD-PLACEHOLDER": "Введіть свій актуальний пароль",
+      "HORECA": "<strong>1. Чи є ви власником закладу HoReCa?</strong> (Кав’ярня, ресторан, готель, АЗС)",
+      "HORECA-YES": "Так",
+      "HORECA-NO": "Ні",
+      "HORECA-OTHER": "ІНШЕ",
+      "SOCIAL-NETWORKS-TITLE": "Чи є у вас акаунт у соц мережах / сайт",
+      "SOCIAL-NETWORKS-SITE": "Веб-сайт",
+      "SOCIAL-NETWORKS-PLACEHOLDER": "Введіть посилання",
+      "SOCIAL-STORIES-TITLE": "2. Чи готові ви разом з нами розвивати культуру чаювання у соц мережах та отримувати  stories-знижки?",
+      "SAVE": "Зберегти"
+    },
+    "ADDRESS-STATE": {
+      "TITLE": "Адреса",
+      "REGION": "Область",
+      "DISTRICT": "Район",
+      "CITY": "Місто / Населений пункт",
+      "ADDRESS": "Адреса",
+      "SAVE": "Зберегти"
+    },
+    "HISTORY-STATE": {
+      "TITLE": "Історія замовлень",
+      "ORDER-NUMBER-TITLE": "Номер замовлення",
+      "ORDER-DATE-TITLE": "Дата",
+      "ORDER-COST-TITLE": "Сума",
+      "ORDER-STATUS-TITLE": "Статус",
+      "ORDER-STATUS-WAITING": "В очікуванні підтвердження",
+      "ORDER-STATUS-DONE": "Виконано",
+      "ORDER-STATUS-CANCELED": "Скасовано",
+      "ORDER-STATUS-DELIVERY": "В процесі доставки",
+      "CURRENCY": "{{value}} грн"
+    }
+  },
+  "REGISTRATION": {
+    "PAGE-TITLE": "Реєстрація",
+    "NEW-CLIENT": "Новий клієнт",
+    "NAME": "Ваше ім’я",
+    "NAME-PLACEHOLDER": "Константин",
+    "LAST-NAME": "Ваше призвіще",
+    "LAST-NAME-PLACEHOLDER": "Константинопольский",
+    "PHONE": "Телефон",
+    "PHONE-PLACEHOLDER": "+380123456789",
+    "EMAIL": "E-mail",
+    "PASSWORD": "Пароль",
+    "PASSWORD-PLACEHOLDER": "Мінімум 8 символів",
+    "CONFIRM-PASSWORD": "Підтвердити пароль",
+    "CONFIRM-PASSWORD-PLACEHOLDER": "Повторіть пароль",
+    "BUTTON-TEXT": "Зареєструватись / Далі",
+    "NOTIFICATION": "Отримувати повідомлення про новини"
+  },
+  "VALIDATION-MESSAGES": {
+    "REQUIRED-FIELD": "Обов'язкове поле",
+    "INCORECT-EMAIL": "Невірний формат Email адреси",
+    "PASSWORDS-MATCH": "Паролі не співпадають",
+    "INCORECT-LINK": "Невірний формат посилання"
+  }
+}
